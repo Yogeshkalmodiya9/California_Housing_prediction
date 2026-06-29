@@ -59,17 +59,15 @@ California-Housing-Price-Prediction/
 ##  Author
 yogesh
 
-
-##  Project Screenshots
-
-### Dataset Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
-
-### Feature Importance
-![Feature Importance](images/feature_importance.png)
-
-### House Price Distribution
-![Distribution](images/house_price_distribution.png)
-
-### Model Prediction Result
-![Prediction](images/model_prediction.png)
+##hh 
+ML_House_prediction_model/
+│── California_Housing_Merged.ipynb
+│── housing.csv
+│── README.md
+│── requirements.txt
+│── .gitignore
+└── images/
+    ├── correlation_heatmap.png
+    ├── feature_importance.png
+    ├── residual_plot.png
+    └── missing_values.png
